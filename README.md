@@ -1,7 +1,5 @@
 # travel
 
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
@@ -19,3 +17,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Travel
+>>>>>>> eb8a1f5d153b865770fe331f8e265071f379f3d3
